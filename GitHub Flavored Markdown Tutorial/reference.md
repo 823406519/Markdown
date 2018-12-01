@@ -23,6 +23,7 @@
 [12]: https://github.com/823406519/Markdown/blob/master/GitHub%20Flavored%20Markdown%20Tutorial/content/C-00%E8%BD%AC%E4%B9%89Markdown%E6%A0%BC%E5%BC%8F.md
 
 需要注意： 本文介绍的是用于GitHub的Markdown, 叫做GitHub Flavored Markdown
+
 # GitHub Flavored Markdown Tutorial Overview
 
 ## [1. 简介][1]
@@ -37,3 +38,9 @@
 ## [10. 插入表格][10]
 ## [11. 触发对话与使用表情][11]
 ## [12. 转义Markdown格式][12]
+---
+# 链接错误？
+本文是使用绝对链接，不再更新维护，链接错误可以访问具有相对链接的该项目的README.md文件
+## [github.com][reference]
+
+[reference]: https://github.com/823406519/Markdown/blob/master/GitHub%20Flavored%20Markdown%20Tutorial/README.md
